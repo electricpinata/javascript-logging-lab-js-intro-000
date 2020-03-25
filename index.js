@@ -1,3 +1,2 @@
-console.error(HALP!)
-console.log("HALP")
-console.warn(fuck!)
+console.log("im a lumberjack")
+console.warn(what the fuck)
